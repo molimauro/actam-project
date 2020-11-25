@@ -1,4 +1,4 @@
-// function that sums two numbers
-function sum(a, b) {
-  return a + b;
+// function that sums three numbers
+function sum(a, b, c) {
+  return a + b + c;
 }
