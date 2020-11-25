@@ -1,4 +1,4 @@
-// function that sums two numbers
-function sum(a, b) {
-  return a + b;
+// function that diffs two numbers
+function diff(a, b) {
+  return a - b;
 }
